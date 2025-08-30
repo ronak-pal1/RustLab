@@ -1,3 +1,5 @@
+mod traits;
+
 fn main() {
-    println!("Hello, world!");
+    traits::basic::run_trait();
 }
