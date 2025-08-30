@@ -19,7 +19,7 @@ impl Summary for User {
 
 
 
-pub fn run_trait() {
+pub fn run() {
 
     let user = User {
         name: String::from("Ronak"),
