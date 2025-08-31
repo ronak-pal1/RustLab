@@ -1,6 +1,7 @@
 mod traits;
 mod multi_threading;
 mod games;
+mod server;
 
 fn main() {
     // traits::basic::run();
